@@ -1,0 +1,20 @@
+{
+  "name": "qr_bar_scanner",
+  "displayName": "qr_bar_scanner",
+  "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+},
+"android": {
+  "adaptiveIcon": {
+    "foregroundImage": "./assets/adaptive-icon.png",
+    "backgroundColor": "#FFFFFF"
+  }
+},
+"web": {
+  "favicon": "./assets/favicon.png"
+}
+}
